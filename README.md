@@ -1,7 +1,7 @@
 <div align="center">
 
-# hey, I'm 🌸  
-# Kanak✨
+# hey, I'm Kanak 🌸  
+
 
 ### Web Developer • Python Learner • Pinterest Girl
 
