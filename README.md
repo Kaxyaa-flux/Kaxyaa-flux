@@ -1,8 +1,7 @@
 <div align="center">
 
-# hey, I'm 🌸  
-# Kaxyaa ✨
-
+# Hey, I'm Kaxyaa🌸  
+ 
 ### Web Developer • Python Learner • Pinterest Girl
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F7A8C4&center=true&vCenter=true&width=500&lines=Building+beautiful+websites;Learning+Python+everyday;Turning+caffeine+☕+into+code+✨" />
