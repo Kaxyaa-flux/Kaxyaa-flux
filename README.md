@@ -4,7 +4,7 @@
  
 ### Web Developer • Python & Java Explorer • UI Design Lover ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F7A8C4&center=true&vCenter=true&width=500&lines=Building+beautiful+websites;Learning+New+Skill+everyday;Turning+caffeine+☕+into+code+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F7A8C4&center=true&vCenter=true&width=500&lines=Building+beautiful+websites;Learning+New+Skills+everyday;Turning+caffeine+☕+into+code+✨" />
 
 </div>
 
