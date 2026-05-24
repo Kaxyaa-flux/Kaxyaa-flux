@@ -61,7 +61,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaxyaa-flux&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ffb6c1&icon_color=ffb6c1"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaxyaa-flux&theme=radical&hide_border=true&background=0D1117&ring=ffb6c1&fire=ffb6c1&currStreakLabel=ffb6c1"/>
 
