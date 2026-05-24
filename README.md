@@ -42,11 +42,11 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://www.linkedin.com/in/kanak-bharara-99ba38321">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://pinterest.com/yourusername">
+<a href="https://pin.it/28LO0klrU">
 <img src="https://img.icons8.com/color/48/pinterest--v1.png" width="45"/>
 </a>
 
