@@ -76,6 +76,12 @@
 
 <div align="center">
 
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Kaxyaa-flux/Kaxyaa-flux/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 💖 "I don't just write code, I create experiences."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A8C4&height=120&section=footer"/>
