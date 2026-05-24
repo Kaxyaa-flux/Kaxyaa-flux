@@ -1,7 +1,7 @@
 <div align="center">
 
-# hey, I'm Kanak 🌸  
-
+# hey, I'm 🌸  
+# Kaxyaa ✨
 
 ### Web Developer • Python Learner • Pinterest Girl
 
@@ -30,10 +30,6 @@
 ![React](https://img.shields.io/badge/React-7dd3fc?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-67e8f9?style=for-the-badge&logo=tailwind-css&logoColor=black)
 
-### 🐍 Programming
-![Python](https://img.shields.io/badge/Python-60a5fa?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-94a3b8?style=for-the-badge&logo=c&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-c084fc?style=for-the-badge)
 
 ### 🛠 Tools & Others
 ![VS Code](https://img.shields.io/badge/VS_Code-1e293b?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
@@ -55,7 +51,7 @@
 <img src="https://img.icons8.com/color/48/pinterest--v1.png" width="45"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:kanakbharara55@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/>
 </a>
 </p>
@@ -66,9 +62,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ffb6c1&icon_color=ffb6c1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaxyaa-flux&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ffb6c1&icon_color=ffb6c1"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=ffb6c1&fire=ffb6c1&currStreakLabel=ffb6c1"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaxyaa-flux&theme=radical&hide_border=true&background=0D1117&ring=ffb6c1&fire=ffb6c1&currStreakLabel=ffb6c1"/>
 
 </div>
 
